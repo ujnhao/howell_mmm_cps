@@ -1,0 +1,41 @@
+{
+	"appid": "wx4b9579253b6b108e",
+	"compileType": "miniprogram",
+	"libVersion": "2.16.0",
+	"packOptions": {
+		"ignore": [],
+		"include": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"enhance": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"nodeModules": false,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"showShadowRootInWxmlPanel": true,
+		"packNpmRelationList": [],
+		"condition": false,
+		"ignoreDevUnusedFiles": false,
+		"ignoreUploadUnusedFiles": false
+	},
+	"editorSetting": {
+		"tabIndent": "insertSpaces",
+		"tabSize": 2
+	},
+	"projectname": "ts-demo",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
+}
